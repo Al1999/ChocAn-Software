@@ -1,0 +1,25 @@
+-------------------------
+Member Name: Cheech Marin
+Member Number: 012345678
+Member Street Address: 420 Sw 69th St
+Member City: Nice
+Member State: FL
+Member Zip Code: 19283
+
+Consultations billed this week (May include older records if charge came in this week):
+
+	Date of Service: 03-04-2021
+	Provider Name: Eat Bitter Inc
+	Service Name: Watch Augustus Gloop Scene in Willy Wonka
+
+	Date of Service: 03-14-2021
+	Provider Name: Regal Cinema
+	Service Name: Eating Chocolate While Watching Baron Harkonnen in the 1984 Version of 'Dune'
+
+	Date of Service: 03-15-2021
+	Provider Name: Regal Cinema
+	Service Name: Eating Chocolate While Watching Baron Harkonnen in the 1984 Version of 'Dune'
+
+-------------------------
+Total Consultations: 3
+Total Fee for the Week: $350.00

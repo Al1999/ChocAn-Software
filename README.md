@@ -1,4 +1,3 @@
-
 # Chocoholics Anonymous Data Processing
 
   The Chocoholics Anonymous Data Processing software will handle data processing for requests made through

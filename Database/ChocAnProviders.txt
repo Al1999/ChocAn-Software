@@ -1,0 +1,12 @@
+Provider, 184445234, Eat Better Inc, 204 19th Ave, Sacramento, CA, 43618
+Provider, 692369234, Eat Butter Inc, 402 91st St, Sea of Crises, The Moon, 00001
+Provider, 999099909, Eat Batter Inc, 240 Crab Lane, Sea of Crabs, AK, 47472
+Provider, 874365478, Eat Bitter Inc, 1234 Fake St, Springfield, OR, 97302
+Provider, 122312234, Stick Man, 11 111th St, Eleven Peaks, IL, 11111
+Provider, 888888888, Regal Cinema, 44 8th Ave, Portland, Or, 97219
+Provider, 123321123, Dr. Nick's Crazy Office, 5349 53rd Way, Springfield, Il, 34421
+Provider, 111222333, Bob Loblaw's Law Blog, 444123 123 333 333, A bad Place, A bad Place, 92299
+Provider, 293458763, Meth Yourself Thin, 2093 Main St, Albuquerque, New Mexico, 87104
+Provider, 293458764, Meth Yourself Thin, 486 Castanello Way, San Diego, California, 92145
+Provider, 293458765, Meth Yourself Thin, 486 Rodeo Dr, Los Angeles, California, 90210
+Provider, 293458766, Meth Yourself Thin, 0210 56th St, San Francisco, California, 90091

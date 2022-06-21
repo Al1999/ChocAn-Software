@@ -1,0 +1,87 @@
+Testing out the vs code integration with github
+E: It appears i have done it correctly
+M: Checking to see if I can push updates as well..
+
+
+main() 
+
+    validator = new ChocAnProviderVerification()
+
+    if ( validator.verifyProviderNumber() )
+        
+        terminal;
+
+        while( user wishes to continue using terminal ) 
+
+            terminalType = //Get user selection
+
+            if ( terminalType == provider )
+                terminal = new ChocAnProviderTerminal()
+            else
+                terminal = new ChocAnManagerTerminal()
+
+            terminal.run()
+            // user can exit and switch terminal type
+
+
+
+class ChocAnBaseTerminal
+    membersList
+
+    run()   //read from disk and populate lists
+    quit()  //save data in lists to disks
+
+    mainMenu()
+    addNewMemeber()
+    updateMemberInfo()
+
+class ChocAnProviderTerminal extends ChocAnBaseTerminal
+    swipeMemeberCard()
+    generateProviderDirectory()
+
+class ChocAnManagerTerminal extends ChocAnBaseTerminal
+    providerList
+
+    addNewProvider()
+    updateProvider()
+    generateAccountingReport()
+
+class ChocAnProviderVerification
+    verifyProviderNumber()
+
+class ChocAnDatabaseManager
+    loadMembers( memberList )
+    saveMembers( memberList )
+    loadProviders( providerList )
+    saveProviders( providerList )
+    loadServiceRecords( recordsList )
+    saveServiceRecords( recordsList )
+    loadProviderDirectory( serviceTypesList )
+
+
+class ChocAnService
+    name
+    code
+    fee
+
+class ChocAnServiceRecord
+    creationDateTime
+    serviceDateTime
+    providerNumber
+    memberNumber
+    serviceCode
+    comments
+
+class ChocAnMember
+    memberNumber
+    memberName
+    streetAddress
+    city
+    state
+    zipCode
+    membershipStatus
+    feesDue
+
+class ChocAnProvider
+    providerNumber
+    providerName

@@ -1,0 +1,26 @@
+-------------------------
+Provider Name: Eat Bitter Inc
+Provider Number: 874365478
+Provider Street Address: 1234 Fake St
+Provider City: Springfield
+Provider State: OR
+Provider Zip Code: 97302
+
+Services Provided: 
+	Date of Service: 03-04-2021
+	Date Received by Comp.:03-06-2021 08:27:09
+	Member Name: Cheech Marin
+	Member Number: 012345678
+	Service Code: 500000000
+	Fee to be Paid: $50.00
+
+Services Provided: 
+	Date of Service: 03-10-2021
+	Date Received by Comp.:03-06-2021 22:34:37
+	Member Name: Shadow the Hedgehog
+	Member Number: 999999999
+	Service Code: 200000000
+	Fee to be Paid: $120.00
+-------------------------
+Total Consultations: 2
+Total Fee for the Week: $170.00

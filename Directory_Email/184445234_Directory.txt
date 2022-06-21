@@ -1,0 +1,80 @@
+	Chocoholics Anonymous Service Directory
+
+
+Thank you for requesting your covered services directory!
+Below is a list of the service codes, the covered service, and the
+amount you will be compensated for providing the service to our member.
+
+======================================================================
+100000000:		Dietitian Consult
+Approved fee:	$100.00
+
+200000000:		Aerobics Session
+Approved fee:	$120.00
+
+300000000:		Forced Vegetable Feeding
+Approved fee:	$99.99
+
+400000000:		Carob Therapy
+Approved fee:	$75.00
+
+500000000:		Watch Augustus Gloop Scene in Willy Wonka
+Approved fee:	$50.00
+
+600000000:		Cute Kitty Cuddling
+Approved fee:	$999.00
+
+700000000:		Shock Therapy
+Approved fee:	$200.00
+
+800000000:		Ipecac Ingestion
+Approved fee:	$220.00
+
+900000000:		Hershey's Taste Testing
+Approved fee:	$80.00
+
+110000000:		Vanilla Indoctrination
+Approved fee:	$89.99
+
+120000000:		Communist Reeducation Camp
+Approved fee:	$0.01
+
+130000000:		Eating Chocolate While Watching Baron Harkonnen in the 1984 Version of 'Dune'
+Approved fee:	$150.00
+
+140000000:		Straight-up Forced Labor
+Approved fee:	$10.00
+
+150000000:		Meth-Small Dose
+Approved fee:	$200.00
+
+160000000:		Meth-Medium Dose
+Approved fee:	$350.00
+
+170000000:		Meth-Large Dose
+Approved fee:	$500.00
+
+180000000:		Meth-Jessie Pinkman Dose
+Approved fee:	$690.00
+
+190000000:		Weightlifting Session
+Approved fee:	$100.00
+
+210000000:		Water Aerobics
+Approved fee:	$120.00
+
+220000000:		Waterboarding
+Approved fee:	$250.00
+
+230000000:		X-treme Sauna
+Approved fee:	$230.00
+
+240000000:		Ice Bath
+Approved fee:	$50.00
+
+250000000:		Standard Public Shaming
+Approved fee:	$175.00
+
+260000000:		Game Of Thrones Public Shaming
+Approved fee:	$430.00
+

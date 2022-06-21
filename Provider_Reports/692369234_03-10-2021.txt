@@ -1,0 +1,18 @@
+-------------------------
+Provider Name: Eat Butter Inc
+Provider Number: 692369234
+Provider Street Address: 402 91st St
+Provider City: Sea of Crises
+Provider State: The Moon
+Provider Zip Code: 00001
+
+Services Provided: 
+	Date of Service: 01-01-1999
+	Date Received by Comp.:03-08-2021 19:56:04
+	Member Name: Shadow the Hedgehog
+	Member Number: 999999999
+	Service Code: 120000000
+	Fee to be Paid: $0.01
+-------------------------
+Total Consultations: 1
+Total Fee for the Week: $0.01

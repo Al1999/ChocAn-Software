@@ -1,0 +1,50 @@
+-------------------------
+Provider Name: Regal Cinema
+Provider Number: 888888888
+Provider Street Address: 44 8th Ave
+Provider City: Portland
+Provider State: Or
+Provider Zip Code: 97219
+
+Services Provided: 
+	Date of Service: 03-12-2021
+	Date Received by Comp.:03-06-2021 22:25:58
+	Member Name: Shadow the Hedgehog
+	Member Number: 999999999
+	Service Code: 130000000
+	Fee to be Paid: $150.00
+
+Services Provided: 
+	Date of Service: 03-14-2012
+	Date Received by Comp.:03-06-2021 22:26:57
+	Member Name: Shadow the Hedgehog
+	Member Number: 999999999
+	Service Code: 500000000
+	Fee to be Paid: $50.00
+
+Services Provided: 
+	Date of Service: 03-14-2021
+	Date Received by Comp.:03-08-2021 22:28:34
+	Member Name: Cheech Marin
+	Member Number: 012345678
+	Service Code: 130000000
+	Fee to be Paid: $150.00
+
+Services Provided: 
+	Date of Service: 03-15-2021
+	Date Received by Comp.:03-07-2021 22:29:22
+	Member Name: Cheech Marin
+	Member Number: 012345678
+	Service Code: 130000000
+	Fee to be Paid: $150.00
+
+Services Provided: 
+	Date of Service: 03-11-2021
+	Date Received by Comp.:03-09-2021 22:32:03
+	Member Name: Minecraft Steve
+	Member Number: 123456789
+	Service Code: 400000000
+	Fee to be Paid: $75.00
+-------------------------
+Total Consultations: 5
+Total Fee for the Week: $575.00

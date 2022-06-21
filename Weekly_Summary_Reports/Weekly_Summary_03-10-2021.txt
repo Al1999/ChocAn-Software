@@ -1,0 +1,24 @@
+-------------------------
+Provider: Eat Butter Inc
+Provider Number: 692369234
+Consultations: 1
+Total weekly fee: $0.01
+-------------------------
+Provider: Eat Batter Inc
+Provider Number: 999099909
+Consultations: 2
+Total weekly fee: $75.00
+-------------------------
+Provider: Eat Bitter Inc
+Provider Number: 874365478
+Consultations: 4
+Total weekly fee: $170.00
+-------------------------
+Provider: Regal Cinema
+Provider Number: 888888888
+Consultations: 9
+Total weekly fee: $575.00
+---------------------------
+Total Providers Billed: 4
+Total Overall Consultations: 16
+Overall Fees for the Week: $820.01

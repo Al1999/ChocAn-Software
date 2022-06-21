@@ -1,0 +1,18 @@
+-------------------------
+Provider Name: Eat Batter Inc
+Provider Number: 999099909
+Provider Street Address: 240 Crab Lane
+Provider City: Sea of Crabs
+Provider State: AK
+Provider Zip Code: 47472
+
+Services Provided: 
+	Date of Service: 03-04-2015
+	Date Received by Comp.:03-09-2021 19:57:16
+	Member Name: Minecraft Steve
+	Member Number: 123456789
+	Service Code: 400000000
+	Fee to be Paid: $75.00
+-------------------------
+Total Consultations: 1
+Total Fee for the Week: $75.00

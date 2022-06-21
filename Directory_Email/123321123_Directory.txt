@@ -1,0 +1,47 @@
+	Chocoholics Anonymous Service Directory
+
+
+Thank you for requesting your covered services directory!
+Below is a list of the service codes, the covered service, and the
+amount you will be compensated for providing the service to our member.
+
+======================================================================
+100000000:		Dietitian Consult
+Approved fee:	$100.00
+
+200000000:		Aerobics Session
+Approved fee:	$120.00
+
+300000000:		Forced Vegetable Feeding
+Approved fee:	$99.99
+
+400000000:		Carob Therapy
+Approved fee:	$75.00
+
+500000000:		Watch Augustus Gloop Scene in Willy Wonka
+Approved fee:	$50.00
+
+600000000:		Cute Kitty Cuddling
+Approved fee:	$999.00
+
+700000000:		Shock Therapy
+Approved fee:	$200.00
+
+800000000:		Ipecac Ingestion
+Approved fee:	$220.00
+
+900000000:		Hershey's Taste Testing
+Approved fee:	$80.00
+
+110000000:		Vanilla Indoctrination
+Approved fee:	$89.99
+
+120000000:		Communist Reeducation Camp
+Approved fee:	$0.01
+
+130000000:		Eating Chocolate While Watching Baron Harkonnen in the 1984 Version of 'Dune'
+Approved fee:	$150.00
+
+140000000:		Straight-up Forced Labor
+Approved fee:	$10.00
+

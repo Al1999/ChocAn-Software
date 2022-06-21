@@ -1,0 +1,29 @@
+-------------------------
+Member Name: Shadow the Hedgehog
+Member Number: 999999999
+Member Street Address: Radical Highway
+Member City: City Zone
+Member State: State of Speed
+Member Zip Code: 44888
+
+Consultations billed this week (May include older records if charge came in this week):
+
+	Date of Service: 01-01-1999
+	Provider Name: Eat Butter Inc
+	Service Name: Communist Reeducation Camp
+
+	Date of Service: 03-12-2021
+	Provider Name: Regal Cinema
+	Service Name: Eating Chocolate While Watching Baron Harkonnen in the 1984 Version of 'Dune'
+
+	Date of Service: 03-14-2012
+	Provider Name: Regal Cinema
+	Service Name: Watch Augustus Gloop Scene in Willy Wonka
+
+	Date of Service: 03-10-2021
+	Provider Name: Eat Bitter Inc
+	Service Name: Aerobics Session
+
+-------------------------
+Total Consultations: 4
+Total Fee for the Week: $320.01

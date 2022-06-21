@@ -1,0 +1,21 @@
+-------------------------
+Member Name: Minecraft Steve
+Member Number: 123456789
+Member Street Address: Hole in the Ground
+Member City: Taiga
+Member State: Minecraft
+Member Zip Code: 14232
+
+Consultations billed this week (May include older records if charge came in this week):
+
+	Date of Service: 03-04-2015
+	Provider Name: Eat Batter Inc
+	Service Name: Carob Therapy
+
+	Date of Service: 03-11-2021
+	Provider Name: Regal Cinema
+	Service Name: Carob Therapy
+
+-------------------------
+Total Consultations: 2
+Total Fee for the Week: $150.00

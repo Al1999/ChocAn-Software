@@ -1,0 +1,36 @@
+Member, 123412345, Roald Dahl, 67 British Lane, Most British City, Britain, 11111, 1
+Member, 234567890, Dwight Fairfield, 1728 N Evergreen St, Sacramento, CA, 90032, 999
+Member, 123456789, Minecraft Steve, Hole in the Ground, Taiga, Minecraft, 14232, 0
+Member, 987987987, Boba Fett, 444 South Bounty Drive, Bilbousa, Nal Hutta, 44242, 66600
+Member, 999999999, Shadow the Hedgehog, Radical Highway, City Zone, State of Speed, 44888, 0
+Member, 345345345, Brad Neely, 2435 S South South, SouthCity, SouthState, 12345, 0
+Member, 222333444, Thomas Tank Engine, 444 Bobbinshire Way, Barsharnsworthington, Welles, 22233, 0
+Member, 333222111, Max Caulfield, 44Prescott Ave North, Arcadia Bay, Oregon, 98223, 0
+Member, 012345678, Cheech Marin, 420 Sw 69th St, Nice, FL, 19283, 0
+Member, 987654321, Eric Cartman, 3927 SW Park Dr, Fairplay, Colorado, 80440, 0
+Member, 420420000, Tommy Chong, 420 Sw 69th St, Nice, Florida, 19283, 420
+Member, 378462948, Barney Stinson, 3412 E Park St, New York, New York, 10003, 4500
+Member, 563290576, Arnold Schwarzenegger, 234 E Rodeo Dr, Beverly Hills, California, 90210, 0
+Member, 196869066, Alan Alda, 4077 MASH, Seoul, South Korea, 10101, 0
+Member, 002346823, Ray Person, 384 95 Ave, Atlanta, Georgia, 23984, 0
+Member, 790234789, Brad Colbert, 346 A St, Dallas, Texas, 23498, 0
+Member, 678254378, Gabriel Garza, 894 Bethany St, BFE, Mississippi, 43769, 0
+Member, 215421543, Rudy Reyes, 9047 Eagle Dr, Sacramento, California, 98346, 0
+Member, 234536544, Walter White, 308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104, 0
+Member, 325418364, Skyler White, 308 Nega Arroyo Lane, Albuquerque, New Mexico, 87104, 0
+Member, 019385653, Flynn White, 308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104, 0
+Member, 912345876, Saul Goodman, 1244 NE Rosewood Ave, Albuquerque, New Mexico, 87104, 0
+Member, 012362348, Jesse Pinkman, 907 Meth St, Albuquerque, New Mexico, 87104, 690
+Member, 239485762, Alonzo Harris, 4587 N 8th St, Los Angeles, California, 90211, 0
+Member, 002345879, Jake Hoyt, 349 Rose Lane, Los Angeles, California, 90209, 0
+Member, 001345876, Warren Griffin III, 0980 Craig Crest Dr, Los Angeles, California, 90200, 0
+Member, 000128749, Nathaniel Hale, 6578 Agustus Lane, Los Angeles, California, 90201, 0
+Member, 023452323, Joel Przybilla, 100 Chalupa St, Minneapolis, Minnesota, 55401, 0
+Member, 010134987, Billy Costigan, 0432 Harold Ct, Boston, Massachusetts, 02109, 0
+Member, 002048736, Colin Sullivan, 4562 Aldrich St, Boston, Massachusetts, 02108, 0
+Member, 000002346, Frank Costello, 937 Gravy Ct, Boston, Massachusetts, 02100, 0
+Member, 003400340, Vincent Hanna, 0039 Ryan Dr, Los Angeles, California, 90210, 0
+Member, 008350357, Neil McCauley, 1101 J St, Los Angeles, California, 90211, 0
+Member, 003400348, Pete Michell, Miramar Way, San Diego, California, 92145, 0
+Member, 003400344, Tom Kazansky, Miramar Way, San Diego, California, 92145, 0
+Member, 002346752, Charlotte Blackwood, Miramar Way, San Diego, California, 92145, 0

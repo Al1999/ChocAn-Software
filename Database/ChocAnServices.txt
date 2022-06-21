@@ -1,0 +1,24 @@
+Service, 100000000, Dietitian Consult, 10000
+Service, 200000000, Aerobics Session, 12000
+Service, 300000000, Forced Vegetable Feeding, 9999
+Service, 400000000, Carob Therapy, 7500
+Service, 500000000, Watch Augustus Gloop Scene in Willy Wonka, 5000
+Service, 600000000, Cute Kitty Cuddling, 99900
+Service, 700000000, Shock Therapy, 20000
+Service, 800000000, Ipecac Ingestion, 22000
+Service, 900000000, Hershey's Taste Testing, 8000
+Service, 110000000, Vanilla Indoctrination, 8999
+Service, 120000000, Communist Reeducation Camp, 1
+Service, 130000000, Eating Chocolate While Watching Baron Harkonnen in the 1984 Version of 'Dune', 15000
+Service, 140000000, Straight-up Forced Labor, 1000
+Service, 150000000, Meth-Small Dose, 20000
+Service, 160000000, Meth-Medium Dose, 35000
+Service, 170000000, Meth-Large Dose, 50000
+Service, 180000000, Meth-Jessie Pinkman Dose, 69000
+Service, 190000000, Weightlifting Session, 10000
+Service, 210000000, Water Aerobics, 12000
+Service, 220000000, Waterboarding, 25000
+Service, 230000000, X-treme Sauna, 23000
+Service, 240000000, Ice Bath, 5000
+Service, 250000000, Standard Public Shaming, 17500
+Service, 260000000, Game Of Thrones Public Shaming, 43000

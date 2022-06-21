@@ -1,0 +1,33 @@
+ServiceRecord, 2021-02-26T20:27:10.681936300, 2021-02-26T00:00, 184445234, Eat Better Inc, 012345678, Cheech Marin, 300000000, We're out of visine now. Need to order more.
+ServiceRecord, 2021-03-08T19:56:04.475703900, 1999-01-01T00:00, 692369234, Eat Butter Inc, 999999999, Shadow the Hedgehog, 120000000, He's so dreamy. But
+ServiceRecord, 2021-03-09T19:57:16.520376400, 2015-03-04T00:00, 999099909, Eat Batter Inc, 123456789, Minecraft Steve, 400000000, This guy can put away cake batter.
+ServiceRecord, 2021-03-06T08:27:09.479481400, 2021-03-04T00:00, 874365478, Eat Bitter Inc, 012345678, Cheech Marin, 500000000, Recommended feasting upon fallen enemies.
+ServiceRecord, 2021-03-06T22:25:58.324137200, 2021-03-12T00:00, 888888888, Regal Cinema, 999999999, Shadow the Hedgehog, 130000000, It was hard to watch him watch.
+ServiceRecord, 2021-03-06T22:26:57.191914100, 2012-03-14T00:00, 888888888, Regal Cinema, 999999999, Shadow the Hedgehog, 500000000, He'll be back for more
+ServiceRecord, 2021-03-08T22:28:34.962749700, 2021-03-14T00:00, 888888888, Regal Cinema, 012345678, Cheech Marin, 130000000, I think he just came to watch the movie
+ServiceRecord, 2021-03-07T22:29:22.582710600, 2021-03-15T00:00, 888888888, Regal Cinema, 012345678, Cheech Marin, 130000000, He was just here yesterday...
+ServiceRecord, 2021-03-09T22:32:03.604500300, 2021-03-11T00:00, 888888888, Regal Cinema, 123456789, Minecraft Steve, 400000000, They just bought some ancient carob bars,/ and said it was a medical proceedure... I guess he was right.
+ServiceRecord, 2021-03-06T22:34:37.817512700, 2021-03-10T00:00, 874365478, Eat Bitter Inc, 999999999, Shadow the Hedgehog, 200000000, He was packing
+ServiceRecord, 2021-03-10T20:18:20.375538, 2021-03-10T00:00, 293458763, Meth Yourself Thin, 123456789, Minecraft Steve, 700000000, Return for 1st meth dose
+ServiceRecord, 2021-03-11T21:15:15.049664300, 2021-03-11T00:00, 293458763, Meth Yourself Thin, 234536544, Walter White, 150000000, Seems like daddy wants a taste
+ServiceRecord, 2021-03-11T21:16:05.723405700, 2021-03-11T00:00, 293458763, Meth Yourself Thin, 234536544, Walter White, 170000000, They always come back for more
+ServiceRecord, 2021-03-11T21:16:48.959024700, 2021-03-11T00:00, 293458763, Meth Yourself Thin, 563290576, Arnold Schwarzenegger, 240000000, He came in said "chill out" then demanded an ice bath... Well,/ its covered,/ but I don't think this is the kid of ice bath he thinks it is.
+ServiceRecord, 2021-03-11T21:18:21.286226900, 2021-03-14T00:00, 293458763, Meth Yourself Thin, 563290576, Arnold Schwarzenegger, 110000000, He demanded the white stuff... Said it was ice cream.
+ServiceRecord, 2021-03-11T21:23:00.848720600, 2021-03-09T00:00, 293458765, Meth Yourself Thin, 196869066, Alan Alda, 900000000, Not as gross as you might suspect
+ServiceRecord, 2021-03-11T21:23:54.067203, 2021-03-10T00:00, 111222333, Bob Loblaw's Law Blog, 000002346, Frank Costello, 230000000, Definitely not money laundering
+ServiceRecord, 2021-03-11T21:24:24.855154700, 2021-03-11T00:00, 111222333, Bob Loblaw's Law Blog, 000002346, Frank Costello, 180000000, Still not money laundering
+ServiceRecord, 2021-03-11T21:24:46.646174400, 2021-03-11T00:00, 111222333, Bob Loblaw's Law Blog, 000002346, Frank Costello, 260000000, Totally money-laundering-free interaction
+ServiceRecord, 2021-03-11T21:25:34.753140800, 2021-03-14T00:00, 111222333, Bob Loblaw's Law Blog, 000002346, Frank Costello, 220000000, Ok,/ this one was just torturing a guy
+ServiceRecord, 2021-03-11T21:26:35.005187700, 2021-03-14T00:00, 111222333, Bob Loblaw's Law Blog, 215421543, Rudy Reyes, 170000000, Performance enhancers he said
+ServiceRecord, 2021-03-11T21:27:24.061260300, 2021-03-14T00:00, 111222333, Bob Loblaw's Law Blog, 987654321, Eric Cartman, 180000000, He didn't even use it... He just mumbled about how Kyle woud soon be in jail.
+ServiceRecord, 2021-03-11T21:28:47.961383, 2021-03-10T00:00, 123321123, Dr. Nick's Crazy Office, 196869066, Alan Alda, 120000000, He claimed that he was a better doctor than me. Something about mashed potatos maybe?
+ServiceRecord, 2021-03-12T05:37:39.759455800, 2021-03-11T00:00, 122312234, Stick Man, 003400348, Pete Michell, 130000000, He just seemed to enjoy this
+ServiceRecord, 2021-03-12T05:39:50.262241900, 2021-03-10T00:00, 122312234, Stick Man, 002346752, Charlotte Blackwood, 220000000, This should be illegal
+ServiceRecord, 2021-03-12T05:41:36.601501800, 2021-03-09T00:00, 999099909, Eat Batter Inc, 002346823, Ray Person, 800000000, So much vom
+ServiceRecord, 2021-03-12T05:42:00.053299500, 2021-03-14T00:00, 999099909, Eat Batter Inc, 002346823, Ray Person, 400000000, Who eats this stuff
+ServiceRecord, 2021-03-12T05:42:59.943687800, 2021-03-11T00:00, 999099909, Eat Batter Inc, 333222111, Max Caulfield, 600000000, Hipsters
+ServiceRecord, 2021-03-12T05:43:14.510387300, 2021-03-15T00:00, 999099909, Eat Batter Inc, 333222111, Max Caulfield, 200000000, So many cats! Awesome
+ServiceRecord, 2021-03-12T05:44:55.424589600, 2021-03-14T00:00, 184445234, Eat Better Inc, 215421543, Rudy Reyes, 300000000, They enjoyed it.
+ServiceRecord, 2021-03-12T05:45:32.406773400, 2021-03-11T00:00, 184445234, Eat Better Inc, 215421543, Rudy Reyes, 150000000, Not fraud
+ServiceRecord, 2021-03-12T05:46:19.059839900, 2021-03-10T00:00, 184445234, Eat Better Inc, 678254378, Gabriel Garza, 190000000, We don't even have weights. So they lifted potatos.
+ServiceRecord, 2021-03-12T05:46:48.668447100, 2021-03-11T00:00, 184445234, Eat Better Inc, 678254378, Gabriel Garza, 120000000, This one is cheap
